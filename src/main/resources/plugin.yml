@@ -1,0 +1,5 @@
+name: ChunkCollector
+version: ${project.version}
+main: me.dalot.ChunkCollector
+api-version: 1.19
+authors: [ Dalot421 ]
